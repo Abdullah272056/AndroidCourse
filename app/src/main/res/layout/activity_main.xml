@@ -33,5 +33,11 @@
         android:id="@+id/Button1Id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+    <Button
+        android:textSize="30sp"
+        android:text="Button2"
+        android:id="@+id/Button2Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
